@@ -46,6 +46,7 @@
 │   ├── mqtt.js              # MQTT broker connection
 │   └── server.js            # Express entry point
 │
+├── screenshot/              # UI Screenshots for README
 └── public/                  # Static assets (images, 3D models, icons)
 ```
 
@@ -75,6 +76,17 @@ npm start
 - Simulation mode สำหรับทดสอบโดยไม่ต้องต่อ Hardware จริง
 
 ## Screenshots
+
+### 3D Model Views
+
+![Model Overview 1](screenshot/model.png)
+![Model Overview 2](screenshot/model2.png)
+![Model Overview 3](screenshot/model3.png)
+![Model Overview 4](screenshot/model4.png)
+![Model Overview 5](screenshot/model5.png)
+![Model Overview 6](screenshot/model6.png)
+
+### Application Panels
 
 - `public/dashboard.png` — Dashboard overview
 - `public/air.jpg` — Air system diagram
